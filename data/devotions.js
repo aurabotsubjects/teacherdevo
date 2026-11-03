@@ -48,11 +48,20 @@ window.FL_MANIFEST = [
  },
  {
   "n": 6,
-  "min": 15,
+  "min": 16,
   "giant": "Unforgiveness",
   "title": "The Debt You Can’t Collect",
   "passage": "Matthew 18:21–35",
   "ready": true,
   "images": true
+ },
+ {
+  "n": 7,
+  "min": 15,
+  "giant": "Guilt",
+  "title": "Cancel Your Guilt Trips",
+  "passage": "Matthew 27:20–25",
+  "ready": true,
+  "images": false
  }
 ];
