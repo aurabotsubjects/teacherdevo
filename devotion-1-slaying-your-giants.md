@@ -111,7 +111,7 @@ Shown faintly behind the verse, so soft and low-detail works best.
 ---
 ---
 
-# The Recipe: Devotions 2 to 5
+# The Recipe: Devotions 2 to 6
 
 ## The 12-slide formula (every devotion uses this)
 
@@ -128,7 +128,9 @@ Shown faintly behind the verse, so soft and low-detail works best.
 | 11 | Take these with you | 1.5 | Three question cards. No discussion time |
 | 12 | Take it into today | 1 | One challenge, a short prayer, and "Tomorrow" |
 
-**Total: about 13 minutes plus 1 minute per true story (so 14 to 15).** The images are the same seven slots every time (`gN-01-title` to `gN-07-closing`), where N is the devotion number.
+**Total: about 13 minutes plus 1 minute per true story (so 14 to 16).** The images are the same seven slots every time (`gN-01-title` to `gN-07-closing`), where N is the devotion number.
+
+**Real-life story rule (important):** every devotion needs at least one genuine real-life story (a true account, historical anecdote or the author's own experience) that illustrates the Bible message. Retelling the passage's own narrative, such as a parable, doesn't count on its own, though it can sit alongside. Devotion 6 originally had only the parable of the unmerciful servant, so two real-life stories from the chapter were added.
 
 **Story rule (important):** nothing on the Big picture, Back to the Bible, Take these with you or Take it into today slides may refer to a story, name or example that hasn't already been told earlier in that same devotion. If a later slide needs a story, a True story slide (or at least the full example in a teaching slide) comes first. I check every slide against this before delivering a devotion.
 
@@ -266,6 +268,50 @@ Shown faintly behind the verse, so soft and low-detail works best.
 5. `g5-05-run` (1:1): a runner's silhouette sprinting toward a glowing open exit door.
 6. `g5-06-fruit` (1:1): a simple bowl of plain fruit on a wooden table by a window in warm mint light.
 7. `g5-07-closing` (16:9): a teacher stepping through an open door into morning sunlight.
+
+---
+
+## Devotion 6: Unforgiveness
+**Book:** Chapter 6 · **Giant:** Unforgiveness · **Passage:** Matthew 18:21–35 · **Tomorrow:** Giant 7, Guilt · **Length:** about 16 minutes (13 plus three true-story slides) · **Files:** `data/devotion-6.js` + `data/devotion-6-images.js` (full notes in `devotion-6-unforgiveness.md`)
+
+**Big idea:** Unforgiveness is a debt we keep trying to collect, and it locks us up, not them. We forgive because we have been forgiven far more. *Forgiven much, forgave little.*
+
+**Life stories included (3):** the parable of the unmerciful servant (Jesus' own story), the author's story of thinking he had forgiven a friend, and the pastor who walked sixty miles to save his enemy. They alternate with teaching slides so no two stories sit back to back.
+
+| Slide | Content |
+|---|---|
+| 1 Title | *The debt* / **you can't** / *collect* · pills: Giant 6 · Unforgiveness / Matthew 18:21–35 |
+| 2 Opening thought | *Who is the one you'd rather not think about this morning?* Not to name out loud, just notice who came to mind. |
+| 3 Meet the giant | A giant that hides in memory. Peter asked how many times to forgive and Jesus answered with a story about a debt. **Today's giant:** Unforgiveness, refusing to cancel a debt someone owes us and being the one who stays locked up because of it. |
+| 4 Scripture | Matthew 18:22 (KJV): "Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven." *Notice: Jesus wasn't giving a number to count up to, he was removing the counting.* Read Matthew 18:21–35 aloud first. |
+| 5 Teaching 1: **A decision, not a feeling** | Don't wait until you feel forgiving. Forgiveness is cancelling a debt, and you can do that before your emotions catch up (Ephesians 4:32; Colossians 3:13). **In the classroom:** say plainly, "I cancel this debt." |
+| 6 **Story: The servant who was forgiven** | Jesus' parable (Matthew 18:23–35). A servant is forgiven a huge debt, then throttles a fellow servant over a small one. Pull line: *Forgiven much, forgave little.* **In the classroom:** the colleague who undermined you is a hundred days' wages. |
+| 7 Teaching 2: **Remember what was cancelled for you** | The two debts in the story: one could never be repaid, the other was real but small. It puts the hurt in proportion, it doesn't make it imaginary. Forgive from the heart, not just with words (Matthew 18:35). |
+| 8 **Story: I thought I had forgiven him** | The author: a friend slandered him and hung up when he phoned. Two years later, in a shop, Kent kept his eyes down. His wife said, "You hardly even looked at him." He prayed, "Lord, I choose to forgive him," and compassion came instantly. No apology ever came, and it no longer mattered. Pull line: *He chose it. The feeling followed.* **In the classroom:** the person you can't look in the eye at morning tea. |
+| 9 Teaching 3: **Bitterness is a root, and roots go deep** | Unforgiveness punishes you, not them (Hebrews 12:15). A grudge from the staffroom reaches the classroom, home and sleep. **In the classroom:** ask what the grudge is costing you. |
+| 10 Teaching 4: **Hand it over** | Forgiving doesn't make the wrong right or mean trusting again at once. Hand the debt to God (Romans 12:19) and pray for the person (Luke 6:27–28). **In the classroom:** pray one honest sentence for them daily for a week. |
+| 11 **Story: Sixty miles to save an enemy** | A Revolutionary War pastor, John Miller, walked sixty miles to ask General Washington to pardon a condemned man. When Miller said the man was his worst enemy, Washington signed. Miller carried the pardon another fifteen miles and arrived as the man walked to the gallows. Pull line: *Set free by the man he hated.* *Why it matters:* forgiveness costs the one who gives it. |
+| 12 Big picture | **10,000 talents**, *What was cancelled for us* → **100 days' wages**, *What we're asked to cancel* → **490 times**, *How far it goes.* |
+| 13 Back to the Bible | Ephesians 4:32 and Hebrews 12:15 (KJV). Takeaways: **Decide, don't wait to feel**, **Keep the big debt in view**, **Hand it over and bless**. |
+| 14 Take these with you | 1. Who came to mind at the start, and what do you feel you are still owed? 2. What is holding on to this costing you? 3. What is one step this week toward handing the debt to God? |
+| 15 Close | **Challenge:** Name one person you haven't forgiven. Say "I cancel this debt" and pray one sentence of blessing for them daily. **Tomorrow:** Giant 7: Guilt. |
+
+**Pastoral notes:**
+- **Miller story tradition.** The book names the pastor John Miller. Many other tellings call him Peter Miller and the details vary, so the slide is tagged "A Revolutionary War story" rather than "A true story," and the source line notes the other name.
+- **Real-life hurt.** Some teachers may be thinking of serious harm. Slide 10 says forgiving doesn't mean trusting again at once or pretending it didn't hurt. Worth saying out loud.
+- **Left out of the chapter.** The graphic Nineveh details, the Hitler comparison and the extended "dungeon with a whip" picture. The book's six keys are condensed into four teaching slides.
+- **Spare stories if you want a longer telling:** the boy on the park bench who sat on a bumblebee (Teaching 3), and the author releasing two men after a Bible conference (Teaching 4).
+
+**Image concepts (already made):**
+1. `g6-01-title` (16:9): a silhouette standing at an open heavy chain at the edge of a dark courtyard.
+2. `g6-02-scripture` (16:9): a quiet stone path through dawn mist leading to a distant open gate.
+3. `g6-03-decision` (1:1): a hand releasing a folded blank paper into a beam of mint light.
+4. `g6-04-debt` (1:1): a tiny coin on one side of a scale and a huge mountain of weight on the other.
+5. `g6-05-prison` (1:1): a tangled root growing through a cracked stone floor in the dark.
+6. `g6-06-release` (1:1): open hands letting a glowing thread drift upward toward the dawn.
+7. `g6-07-closing` (16:9): a teacher stepping through an open gate into morning light.
+
+*Devotion 7 (Guilt) has its own notes file: `devotion-7-guilt.md`.*
 
 ---
 
