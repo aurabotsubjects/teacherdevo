@@ -178,7 +178,7 @@ window.FL_DEVOTIONS[6] = {
    "acc": "free",
    "challenge": "This week, name one person you haven’t forgiven. Say out loud, “I cancel this debt,” and pray one sentence of blessing for them each day.",
    "prayer": "Lord, You cancelled a debt I could never pay. Help me to see the debts I’m still collecting, and give me the grace to let them go. Heal what still hurts, and bless the person who hurt me. Free me from the prison of bitterness. In Jesus’ name, Amen.",
-   "tomorrow": "Giant 7: Guilt",
+   "tomorrow": "Giant 7",
    "tomorrowChapter": 7
   }
  ],

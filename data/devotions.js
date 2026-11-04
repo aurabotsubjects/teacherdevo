@@ -54,41 +54,5 @@ window.FL_MANIFEST = [
   "passage": "Matthew 18:21–35",
   "ready": true,
   "images": true
- },
- {
-  "n": 7,
-  "min": 15,
-  "giant": "Guilt",
-  "title": "Cancel Your Guilt Trips",
-  "passage": "Matthew 27:20–25",
-  "ready": true,
-  "images": true
- },
- {
-  "n": 8,
-  "min": 15,
-  "giant": "Change",
-  "title": "Step Out of the Boat",
-  "passage": "Matthew 14:25–29",
-  "ready": true,
-  "images": true
- },
- {
-  "n": 9,
-  "min": 15,
-  "giant": "Worry",
-  "title": "Stop the Movie in Your Mind",
-  "passage": "Matthew 6:25–34",
-  "ready": true,
-  "images": false
- },
- {
-  "n": 10,
-  "min": 15,
-  "giant": "Self-Image",
-  "title": "Don’t Trust the Carnival Mirror",
-  "passage": "Psalm 139:13–18",
-  "ready": true,
-  "images": false
  }
 ];
