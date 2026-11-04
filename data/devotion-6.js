@@ -87,24 +87,6 @@ window.FL_DEVOTIONS[6] = {
    "callout": "Before you decide to hold on, picture the king’s face when the debt was torn up. Then look again at what you’re holding."
   },
   {
-   "type": "story",
-   "short": "I thought I had forgiven him",
-   "tag": "A true story · the author, in a shop",
-   "l1": "I thought I had",
-   "pre": "",
-   "acc": "forgiven him",
-   "paras": [
-    "A friend of Kent Crockett’s turned on him for no clear reason and began slandering him. Kent phoned to ask what had gone wrong and offered to talk it through. The man yelled “No!” and hung up.",
-    "Two years later, Kent and his wife ran into him in a shop. The man chatted as if nothing had happened. Kent kept his eyes down and said very little. When the man walked off, his wife said, “You hardly even looked at him.” **That was when Kent realised he hadn’t really forgiven him.**",
-    "As the man walked away, Kent prayed quietly, “Lord, I choose to forgive him.” **Compassion arrived instantly.** The hurt feelings were gone. The man never apologised, and it no longer mattered."
-   ],
-   "pull": "He chose it. The feeling followed.",
-   "pullSub": "Saying “I forgive him” had not been enough. Forgiving from the heart began the moment Kent made the choice in prayer.",
-   "calloutLabel": "In the classroom",
-   "callout": "The person you can’t look in the eye at morning tea may be a debt you haven’t cancelled yet. Pray the same short prayer, even if you don’t feel it.",
-   "source": "Retold from Kent Crockett, Slaying Your Giants, ch. 6"
-  },
-  {
    "type": "teach",
    "img": "t3",
    "tag": "The root",
@@ -123,24 +105,6 @@ window.FL_DEVOTIONS[6] = {
    "acc": "hurt",
    "body": "Forgiving someone doesn’t make the wrong right, and it doesn’t mean trusting them again at once. It means you hand the debt to God and stop collecting it yourself. Paul says to leave room for God, because justice is His job ([[Romans 12:19|Romans 12:19]]). Jesus goes further and tells us to **pray for the people who hurt us** ([[Luke 6:27–28|Luke 6:27–28]]). It is hard to stay bitter toward someone you’re praying for.",
    "callout": "Start small: pray one honest sentence for the person. “Lord, bless them.” Do it daily for a week and notice what shifts."
-  },
-  {
-   "type": "story",
-   "short": "Sixty miles to save an enemy",
-   "tag": "A Revolutionary War story · a pastor named Miller",
-   "l1": "Sixty miles",
-   "pre": "to save an ",
-   "acc": "enemy",
-   "paras": [
-    "During the American Revolutionary War, a pastor named John Miller heard that one of his enemies was about to be hanged for his crimes. He set out on foot and walked **sixty miles** to plead with General George Washington for the man’s life.",
-    "The general said he was sorry, but he could not pardon Miller’s friend. “He’s not my friend,” said Miller. “He is my worst enemy.” Seeing that, Washington signed the pardon.",
-    "Miller carried the paper **another fifteen miles** and reached the place of execution just as the condemned man was walking toward the gallows. The man who had hated and persecuted him went free, set free by the pastor."
-   ],
-   "pull": "Set free by the man he hated.",
-   "pullSub": "In Matthew 18 a man locks his debtor in prison. Miller does the opposite. We are always either locking people up or setting them free.",
-   "calloutLabel": "Why it matters",
-   "callout": "Forgiveness costs the one who gives it. Miller paid in miles, and the king paid in gold. Who could you set free, and what would it cost you?",
-   "source": "Retold from Kent Crockett, Slaying Your Giants, ch. 6 (the pastor is called Peter Miller in some tellings)"
   },
   {
    "type": "big",
