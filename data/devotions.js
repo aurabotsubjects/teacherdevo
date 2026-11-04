@@ -62,7 +62,7 @@ window.FL_MANIFEST = [
   "title": "Cancel Your Guilt Trips",
   "passage": "Matthew 27:20–25",
   "ready": true,
-  "images": false
+  "images": true
  },
  {
   "n": 8,
@@ -71,7 +71,7 @@ window.FL_MANIFEST = [
   "title": "Step Out of the Boat",
   "passage": "Matthew 14:25–29",
   "ready": true,
-  "images": false
+  "images": true
  },
  {
   "n": 9,
